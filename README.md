@@ -20,7 +20,6 @@
   <div style="display: inline_block"><br> :star::star::star: : 
     <img align="center" alt="Js" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="NestJs" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-    <img align="center" alt="Java" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img align="center" alt="PostgreSQL" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="MongoDB" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
     <img align="center" alt="Expressjs" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
@@ -30,6 +29,7 @@
   </div>
   
   <div style="display: inline_block"><br> :star::star: :
+    <img align="center" alt="Java" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img align="center" alt="Spring" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   </div>
     
