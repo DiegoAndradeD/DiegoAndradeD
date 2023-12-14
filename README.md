@@ -1,7 +1,7 @@
 ### Hi there 👋
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## I'm Diego Deiró, a Software Engineering student and future Developer!
+## I'm Diego, a Software Engineering student and future Developer!
 
 <a href="https://github.com/DiegoAndradeD/github-readme-stats">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoAndradeD&theme=radical" />
