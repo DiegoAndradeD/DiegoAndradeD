@@ -1,52 +1,41 @@
-### Hi there 👋
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<h1 align="center">Hi 👋, I'm Diego]</h1>
+<h3 align="center">A passionate developer focused on Web development</h3>
 
-## I'm Diego, a Software Engineering student and future Developer!
+- 🔭 I’m currently working on **Web Applications with Nextjs**
 
-<a href="https://github.com/DiegoAndradeD/github-readme-stats">
-  <img height=400 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoAndradeD&theme=radical" />
-</a>
-<a href="https://github.com/DiegoAndradeD/convoychat">
-  <img height=400 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoAndradeD&layout=compact&langs_count=8&card_width=340&theme=radical" />
-</a>
+- 🌱 I’m currently learning **The C# programing language for both desktop apps and game development**
 
-## Tech Stack
+- 💬 Expertise **Frontend and Backend, web development, Typescript/Javascript, Nestjs, Nextjs**
 
-<div style="display: inline_block">
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Reactjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  </div>
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Nestjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-    <img align="center" alt="Nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-    <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-    <img align="center" alt="Expressjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+- 📫 How to reach me: **[linkedin](https://www.linkedin.com/in/diego-deir%C3%B3-067822248/)**
 
-  </div>
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-    <img align="center" alt="Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
-  </div>
-    
-</div>
+---
 
+### 🛠️ Technologies & Tools
 
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/diego-deir%C3%B3-067822248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%240077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoAndradeD&show_icons=true&theme=radical" alt="DiegoAndradeD stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAndradeD&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diego-deir%C3%B3-067822248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" /></a>
+</p>
