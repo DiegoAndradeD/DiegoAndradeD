@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">Fullstack web development enthusiast</h3>
+<h3 align="center">Fullstack web developer</h3>
 
 - 🔭 I’m currently working on **Web Applications with Nextjs**
 
-- 🌱 I’m currently learning **The C# programing language for both desktop apps and game development**
+- 🌱 I’m currently learning **The GO programing language*
 
 - 💬 Expertise **Frontend and Backend, web development, Typescript/Javascript, Nestjs, Nextjs**
 
