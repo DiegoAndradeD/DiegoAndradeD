@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Applications with Nextjs**
 
-- 🌱 I’m currently learning **The GO programing language*
+- 🌱 I’m currently learning **The GO programing language**
 
 - 💬 Expertise **Frontend and Backend, web development, Typescript/Javascript, Nestjs, Nextjs**
 
