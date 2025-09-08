@@ -15,26 +15,33 @@
 
 ### 🛠️ Technologies & Tools
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+---
+
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square\&logo=next.js)
+![React](https://img.shields.io/badge/-React-000?style=flat-square\&logo=react)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat-square\&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=flat-square\&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square\&logo=typescript)
+![NestJS](https://img.shields.io/badge/-NestJS-000?style=flat-square\&logo=nestjs)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square\&logo=node.js)
+![Java](https://img.shields.io/badge/-Java-000?style=flat-square\&logo=java)
+![Go](https://img.shields.io/badge/-Go-000?style=flat-square\&logo=go)
+![Maven](https://img.shields.io/badge/-Maven-000?style=flat-square\&logo=apache-maven)
+![Prisma](https://img.shields.io/badge/-Prisma-000?style=flat-square\&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat-square\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat-square\&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square\&logo=docker)
+![Jest](https://img.shields.io/badge/-Jest-000?style=flat-square\&logo=jest)
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square\&logo=git)
+
 
 ---
+
 
 ### 🧩 Other Topics
 
 - 🛠 **API Design:** REST  
-- ⚙️ **ORM:** Prisma, TypeORM  
+- ⚙️ **ORM:** Prisma, TypeORM, DrizzleORM 
 - 🔐 **Auth:** JWT, session-based  
 - 🧪 **Testing:** Jest, Cypress  
 - 🐳 **Deployment & DevOps:** Docker, Vercel, GitHub Actions
@@ -54,6 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoAndradeD&show_icons=true&theme=radical" alt="DiegoAndradeD stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAndradeD&layout=compact&theme=radical" alt="Top Langs" />
 </p>
+
 
 ---
 
