@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">Fullstack web developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on **Web Applications with Nextjs**
 
