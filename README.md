@@ -57,10 +57,18 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoAndradeD&show_icons=true&theme=radical" alt="DiegoAndradeD stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAndradeD&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+<div align="center">
+
+  <div>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=DiegoAndradeD&show_icons=true&theme=github_dark&hide_border=true" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAndradeD&layout=compact&theme=github_dark&hide_border=true" />
+  </div>
+
+  <br/>
+
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoAndradeD&theme=dark&hide_border=true"/>
+
+</div>
 
 
 ---
