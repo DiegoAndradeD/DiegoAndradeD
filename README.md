@@ -7,30 +7,40 @@ Specializing in full-stack web applications with **Next.js** and **NestJS**. I h
 
 ### 🛠️ Technical Stack
 
-**Frontend Development**
+**Frontend & Mobile**
 <br>
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-brown?style=flat-square&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-121212?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-121212?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-121212?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-121212?style=flat-square&logo=vite&logoColor=646CFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-121212?style=flat-square&logo=typescript&logoColor=3178C6)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-121212?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![TanStack](https://img.shields.io/badge/TanStack-121212?style=flat-square&logo=react-query&logoColor=FF4154)
+![Zustand](https://img.shields.io/badge/Zustand-121212?style=flat-square&logo=react&logoColor=white)
 
 **Backend Engineering**
 <br>
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-121212?style=flat-square&logo=nodedotjs&logoColor=339933)
+![NestJS](https://img.shields.io/badge/NestJS-121212?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Go](https://img.shields.io/badge/Go-121212?style=flat-square&logo=go&logoColor=00ADD8)
+![Java](https://img.shields.io/badge/Java-121212?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Maven](https://img.shields.io/badge/Maven-121212?style=flat-square&logo=apache-maven&logoColor=C71A36)
 
-**Database & Infrastructure**
+**Databases & ORMs**
 <br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121212?style=flat-square&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-121212?style=flat-square&logo=mongodb&logoColor=47A248)
+![Prisma](https://img.shields.io/badge/Prisma-121212?style=flat-square&logo=prisma&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-121212?style=flat-square&logo=drizzle&logoColor=C5F74F)
+![TypeORM](https://img.shields.io/badge/TypeORM-121212?style=flat-square&logo=typeorm&logoColor=FE0803)
+![GORM](https://img.shields.io/badge/GORM-121212?style=flat-square&logo=go&logoColor=00ADD8)
+
+**DevOps, Testing & Tools**
+<br>
+![Docker](https://img.shields.io/badge/Docker-121212?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-121212?style=flat-square&logo=git&logoColor=F05032)
+![Jest](https://img.shields.io/badge/Jest-121212?style=flat-square&logo=jest&logoColor=C21325)
+![Cypress](https://img.shields.io/badge/Cypress-121212?style=flat-square&logo=cypress&logoColor=white)
 
 ---
 
@@ -55,14 +65,11 @@ Specializing in full-stack web applications with **Next.js** and **NestJS**. I h
 
 <div align="center">
 
-  <div>
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=DiegoAndradeD&show_icons=true&theme=github_dark&hide_border=true" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAndradeD&layout=compact&theme=github_dark&hide_border=true" />
-  </div>
 
-  <br/>
+[![](https://raw.githubusercontent.com/DiegoAndradeD/DiegoAndradeD/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/DiegoAndradeD/DiegoAndradeD/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DiegoAndradeD/DiegoAndradeD/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/DiegoAndradeD/DiegoAndradeD/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DiegoAndradeD/DiegoAndradeD/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoAndradeD&theme=dark&hide_border=true"/>
 
 </div>
 
