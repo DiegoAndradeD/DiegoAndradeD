@@ -1,5 +1,8 @@
 # Hi, I'm Diego
 > Software Engineer | Full Stack Developer
+>
+> [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8b2e2e?style=for-the-badge&logo=codeforces&logoColor=c9a961)](https://diego-portfolio-cnm.pages.dev/)
+
 
 Specializing in full-stack web applications with **Next.js** and **NestJS**. I have a strong foundation in TypeScript and state management, and I am currently expanding my backend architecture skills with **Go**.
 
