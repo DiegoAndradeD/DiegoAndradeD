@@ -165,11 +165,11 @@
 
     <!-- repo name -->
     <text x="24" y="104" font-family="'Syne',sans-serif" font-weight="800"
-          font-size="32" fill="url(#repoName)" class="fu d3">portfolio</text>
+          font-size="32" fill="url(#repoName)" class="fu d3">metallic-void</text>
 
     <!-- description -->
     <text x="24" y="128" font-family="'JetBrains Mono',monospace"
-          font-size="12" fill="#a1a1aa" class="fu d4"></text>
+          font-size="12" fill="#a1a1aa" class="fu d4">A dark, metallic, and minimalist VS Code theme.</text>
 
     <!-- Stars pill -->
     <rect x="24" y="148" width="108" height="30" rx="10"
@@ -197,9 +197,9 @@
     <rect x="250" y="148" width="124" height="30" rx="10"
           fill="rgba(39,39,42,0.4)" stroke="rgba(63,63,70,.5)" stroke-width="1"
           class="fu d7"/>
-    <circle cx="266" cy="163" r="5" fill="#3178c6" class="fu d7"/>
+    <circle cx="266" cy="163" r="5" fill="#888" class="fu d7"/>
     <text x="277" y="168" font-family="'JetBrains Mono',monospace"
-          font-size="12" fill="#d4d4d8" class="fu d7">TypeScript</text>
+          font-size="12" fill="#d4d4d8" class="fu d7">Unknown</text>
 
     <!-- accent line -->
     <line x1="24" y1="200" x2="696" y2="200"
