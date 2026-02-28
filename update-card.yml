@@ -1,0 +1,38 @@
+name: Generate Profile Summary Card
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:   
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Gerar o SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npx tsx build-card.ts
+
+      - name: Commit e Push do novo SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add meu-card.svg
+          git commit -m "chore: atualiza metricas do card [skip ci]" || echo "Nenhuma mudança para commitar"
+          git push
