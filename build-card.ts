@@ -258,9 +258,9 @@ function shell(
 
 function profileCard(p: Profile): string {
   const W = 380,
-    H = 330;
+    H = 366;
   const CX = W / 2,
-    CY = 106,
+    CY = 120,
     R = 52;
 
   const stats = [
@@ -277,7 +277,7 @@ function profileCard(p: Profile): string {
     boxH = 72,
     gap = 14;
   const rowX = (W - (boxW * 3 + gap * 2)) / 2;
-  const rowY = 222;
+  const rowY = 250;
 
   const boxes = stats
     .map((s, i) => {
@@ -351,7 +351,7 @@ function profileCard(p: Profile): string {
 
 function languagesCard(langs: Language[], totalRepos: number): string {
   const W = 380;
-  const H = 90 + langs.length * 58 + 44;
+  const H = 366;
   const BAR_W = W - 64;
 
   const bars = langs
