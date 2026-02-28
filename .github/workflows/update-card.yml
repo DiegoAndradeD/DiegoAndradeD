@@ -3,7 +3,7 @@ name: Generate Profile Summary Card
 on:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:   
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
       - name: Checkout do código
         uses: actions/checkout@v4
@@ -33,6 +33,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add stats-card.svg langs-card.svg
+          git add profile-card.svg languages-card.svg contributions-card.svg spotlight-card.svg
           git commit -m "chore: atualiza metricas do card [skip ci]" || echo "Nenhuma mudança para commitar"
           git push
