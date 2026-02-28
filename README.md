@@ -67,13 +67,13 @@ Specializing in full-stack web applications with **Next.js** and **NestJS**. I h
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="profile-card.svg" alt="GitHub Profile Stats" width="400px"/>
+  <img src="profile-card.svg" alt="GitHub Profile Stats" width="38.5%"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="languages-card.svg" alt="Top Languages" width="400px"/>
+  <img src="languages-card.svg" alt="Top Languages" width="38.5%"/>
   <br><br>
-  <img src="contributions-card.svg" alt="GitHub Contributions" width="85%" />
+  <img src="contributions-card.svg" alt="GitHub Contributions" width="80%" />
   <br><br>
-  <img src="spotlight-card.svg" alt="Project Spotlight" width="85%" />
+  <img src="spotlight-card.svg" alt="Project Spotlight" width="80%" />
 </div>
 
 ---
