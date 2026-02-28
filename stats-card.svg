@@ -1,0 +1,50 @@
+
+  <svg width="450" height="180" viewBox="0 0 450 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;display=swap');
+  
+  .bg { fill: #0a0b0f; stroke: #2d3139; stroke-width: 1.5; rx: 12px; }
+  .title { font-family: 'Inter', sans-serif; font-weight: 700; fill: #e2e8f0; font-size: 18px; }
+  .subtitle { font-family: 'Inter', sans-serif; font-weight: 400; fill: #8b949e; font-size: 13px; }
+  .stat-value { font-family: 'Inter', sans-serif; font-weight: 700; fill: #ffffff; font-size: 20px; }
+  .stat-label { font-family: 'Inter', sans-serif; font-weight: 600; fill: #94a3b8; font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px; }
+  
+  /* Animações fluidas */
+  .stagger { opacity: 0; animation: fadeIn 0.8s ease-out forwards; }
+  .delay-1 { animation-delay: 0.2s; }
+  .delay-2 { animation-delay: 0.4s; }
+  .delay-3 { animation-delay: 0.6s; }
+  .delay-4 { animation-delay: 0.8s; }
+  
+  @keyframes fadeIn {
+    0% { opacity: 0; transform: translateY(10px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes slideRight {
+    0% { width: 0; }
+    100% { opacity: 1; }
+  }
+</style>
+    <rect width="100%" height="100%" class="bg" />
+    
+    <text x="30" y="40" class="title stagger">Métricas de Desenvolvimento</text>
+    <text x="30" y="60" class="subtitle stagger delay-1">Visão geral das contribuições de DiegoAndradeD</text>
+
+    <g transform="translate(30, 100)">
+      <text y="0" class="stat-value stagger delay-2">671</text>
+      <text y="20" class="stat-label stagger delay-2">Commits</text>
+    </g>
+    <g transform="translate(130, 100)">
+      <text y="0" class="stat-value stagger delay-3">0</text>
+      <text y="20" class="stat-label stagger delay-3">Estrelas</text>
+    </g>
+    <g transform="translate(230, 100)">
+      <text y="0" class="stat-value stagger delay-4">10</text>
+      <text y="20" class="stat-label stagger delay-4">Pull Requests</text>
+    </g>
+    <g transform="translate(350, 100)">
+      <text y="0" class="stat-value stagger delay-4">13</text>
+      <text y="20" class="stat-label stagger delay-4">Issues</text>
+    </g>
+  </svg>
+  
