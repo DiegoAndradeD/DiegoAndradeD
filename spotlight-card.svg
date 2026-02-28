@@ -1,0 +1,216 @@
+<svg width="720" height="222" viewBox="0 0 720 222"
+  fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+  @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&amp;family=JetBrains+Mono:wght@400;500;600&amp;display=swap');
+
+  .fu { opacity:0; animation: fu .65s cubic-bezier(.22,1,.36,1) forwards; }
+  .d0 { animation-delay:.05s; } .d1 { animation-delay:.15s; }
+  .d2 { animation-delay:.25s; } .d3 { animation-delay:.35s; }
+  .d4 { animation-delay:.45s; } .d5 { animation-delay:.55s; }
+  .d6 { animation-delay:.65s; } .d7 { animation-delay:.75s; }
+  .d8 { animation-delay:.85s; } .d9 { animation-delay:.95s; }
+  @keyframes fu {
+    from { opacity:0; transform:translateY(12px); }
+    to   { opacity:1; transform:translateY(0); }
+  }
+
+  .bf { transform-origin:left center; transform:scaleX(0);
+        animation: bf 1s cubic-bezier(.22,1,.36,1) forwards; }
+  @keyframes bf { to { transform:scaleX(1); } }
+
+  .gp { animation: gp 2.4s ease-in-out infinite alternate; }
+  @keyframes gp { from { opacity:.12; } to { opacity:.38; } }
+
+  .rot { animation: rot 8s linear infinite;
+         transform-box:fill-box; transform-origin:center; }
+  @keyframes rot { to { transform:rotate(360deg); } }
+
+  .sw { animation: sw 3.5s ease-in-out infinite; }
+  @keyframes sw {
+    0%   { transform:translateX(-110%); }
+    100% { transform:translateX(310%);  }
+  }
+
+  .dp { animation: dp 2s ease-in-out infinite alternate; }
+  @keyframes dp { from { opacity:.4; } to { opacity:1; } }
+
+  .cp { opacity:0; animation: fu .3s ease-out forwards; }
+
+      .al {
+        stroke-dasharray: 720;
+        stroke-dashoffset: 720;
+        animation: al 1.2s cubic-bezier(.22,1,.36,1) .4s forwards;
+      }
+      @keyframes al { to { stroke-dashoffset:0; } }
+    </style>
+    
+  <linearGradient id="cyanPurple_spot" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%"   stop-color="#22d3ee"/>
+    <stop offset="50%"  stop-color="#a855f7"/>
+    <stop offset="100%" stop-color="#ec4899"/>
+  </linearGradient>
+  <linearGradient id="bgCard_spot" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%"   stop-color="#09090b"/>
+    <stop offset="50%"  stop-color="#18181b"/>
+    <stop offset="100%" stop-color="#09090b"/>
+  </linearGradient>
+  <linearGradient id="glass_spot" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%"   stop-color="white" stop-opacity="0.05"/>
+    <stop offset="100%" stop-color="white" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="sweep_spot" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%"   stop-color="white" stop-opacity="0"/>
+    <stop offset="50%"  stop-color="white" stop-opacity="0.08"/>
+    <stop offset="100%" stop-color="white" stop-opacity="0"/>
+  </linearGradient>
+
+    <linearGradient id="repoName" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#c084fc"/>
+      <stop offset="50%"  stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#fb923c"/>
+    </linearGradient>
+    <linearGradient id="accentL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#a855f7" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="iconGrad_spot" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#a855f7" stop-opacity=".25"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity=".25"/>
+    </linearGradient>
+    <radialGradient id="glow_spot" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#a855f7" stop-opacity=".07"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card_spot"><rect width="720" height="222" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card_spot)">
+    
+  <rect width="720" height="222" rx="18" fill="url(#bgCard_spot)"/>
+  <rect width="720" height="222" rx="18" fill="url(#glass_spot)"/>
+  <rect width="720" height="222" rx="18" fill="none"
+        stroke="#a855f7" stroke-width="1.5" opacity="0.28" class="gp"/>
+  <rect width="720" height="222" rx="18" fill="none"
+        stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  
+    <rect width="720" height="222" fill="url(#glow_spot)"/>
+    <!-- star dots -->
+    <circle cx="7" cy="7" r="1.4"
+                    fill="white" opacity="0.15"/>
+    <circle cx="144" cy="164" r="0.5"
+                    fill="white" opacity="0.20"/>
+    <circle cx="281" cy="100" r="0.8"
+                    fill="white" opacity="0.25"/>
+    <circle cx="418" cy="36" r="1.1"
+                    fill="white" opacity="0.30"/>
+    <circle cx="554" cy="193" r="1.4"
+                    fill="white" opacity="0.10"/>
+    <circle cx="691" cy="129" r="0.5"
+                    fill="white" opacity="0.15"/>
+    <circle cx="108" cy="64" r="0.8"
+                    fill="white" opacity="0.20"/>
+    <circle cx="245" cy="0" r="1.1"
+                    fill="white" opacity="0.25"/>
+    <circle cx="382" cy="158" r="1.4"
+                    fill="white" opacity="0.30"/>
+    <circle cx="518" cy="93" r="0.5"
+                    fill="white" opacity="0.10"/>
+    <circle cx="655" cy="29" r="0.8"
+                    fill="white" opacity="0.15"/>
+    <circle cx="72" cy="186" r="1.1"
+                    fill="white" opacity="0.20"/>
+    <circle cx="209" cy="122" r="1.4"
+                    fill="white" opacity="0.25"/>
+    <circle cx="346" cy="58" r="0.5"
+                    fill="white" opacity="0.30"/>
+    <circle cx="482" cy="215" r="0.8"
+                    fill="white" opacity="0.10"/>
+    <circle cx="619" cy="151" r="1.1"
+                    fill="white" opacity="0.15"/>
+    <circle cx="36" cy="87" r="1.4"
+                    fill="white" opacity="0.20"/>
+    <circle cx="173" cy="22" r="0.5"
+                    fill="white" opacity="0.25"/>
+    <circle cx="310" cy="180" r="0.8"
+                    fill="white" opacity="0.30"/>
+    <circle cx="446" cy="115" r="1.1"
+                    fill="white" opacity="0.10"/>
+    <circle cx="583" cy="51" r="1.4"
+                    fill="white" opacity="0.15"/>
+    <circle cx="0" cy="209" r="0.5"
+                    fill="white" opacity="0.20"/>
+    <circle cx="137" cy="144" r="0.8"
+                    fill="white" opacity="0.25"/>
+    <circle cx="274" cy="80" r="1.1"
+                    fill="white" opacity="0.30"/>
+    <circle cx="410" cy="16" r="1.4"
+                    fill="white" opacity="0.10"/>
+    <circle cx="547" cy="173" r="0.5"
+                    fill="white" opacity="0.15"/>
+
+    <!-- header icon -->
+    <rect x="24" y="22" width="34" height="34" rx="9"
+          fill="url(#iconGrad_spot)" stroke="rgba(168,85,247,.3)" stroke-width="1"
+          class="fu d0"/>
+    <text x="41" y="45" text-anchor="middle"
+          font-family="'Syne',sans-serif" font-size="16"
+          fill="#c084fc" class="fu d0">★</text>
+
+    <text x="68" y="35" font-family="'Syne',sans-serif" font-weight="600"
+          font-size="18" fill="white" class="fu d1">Repository Spotlight</text>
+    <text x="68" y="51" font-family="'JetBrains Mono',monospace" font-size="10"
+          fill="#71717a" letter-spacing="1" class="fu d2">MOST STARRED REPOSITORY</text>
+
+    <!-- repo name -->
+    <text x="24" y="104" font-family="'Syne',sans-serif" font-weight="800"
+          font-size="32" fill="url(#repoName)" class="fu d3">portfolio</text>
+
+    <!-- description -->
+    <text x="24" y="128" font-family="'JetBrains Mono',monospace"
+          font-size="12" fill="#a1a1aa" class="fu d4"></text>
+
+    <!-- Stars pill -->
+    <rect x="24" y="148" width="108" height="30" rx="10"
+          fill="rgba(39,39,42,0.4)" stroke="rgba(63,63,70,.5)" stroke-width="1"
+          class="fu d5"/>
+    <text x="40" y="168" font-family="'Syne',sans-serif"
+          font-size="14" fill="#facc15" class="fu d5">★</text>
+    <text x="56" y="168" font-family="'JetBrains Mono',monospace"
+          font-weight="700" font-size="15" fill="white" class="fu d5">0</text>
+    <text x="80" y="168" font-family="'JetBrains Mono',monospace"
+          font-size="10" fill="#71717a" class="fu d5">stars</text>
+
+    <!-- Forks pill -->
+    <rect x="142" y="148" width="98" height="30" rx="10"
+          fill="rgba(39,39,42,0.4)" stroke="rgba(63,63,70,.5)" stroke-width="1"
+          class="fu d6"/>
+    <text x="158" y="168" font-family="'JetBrains Mono',monospace"
+          font-size="14" fill="#60a5fa" class="fu d6">⑂</text>
+    <text x="174" y="168" font-family="'JetBrains Mono',monospace"
+          font-weight="700" font-size="15" fill="white" class="fu d6">0</text>
+    <text x="198" y="168" font-family="'JetBrains Mono',monospace"
+          font-size="10" fill="#71717a" class="fu d6">forks</text>
+
+    <!-- Language pill -->
+    <rect x="250" y="148" width="124" height="30" rx="10"
+          fill="rgba(39,39,42,0.4)" stroke="rgba(63,63,70,.5)" stroke-width="1"
+          class="fu d7"/>
+    <circle cx="266" cy="163" r="5" fill="#3178c6" class="fu d7"/>
+    <text x="277" y="168" font-family="'JetBrains Mono',monospace"
+          font-size="12" fill="#d4d4d8" class="fu d7">TypeScript</text>
+
+    <!-- accent line -->
+    <line x1="24" y1="200" x2="696" y2="200"
+          stroke="url(#accentL)" stroke-width="1.5" class="al"/>
+    <line x1="24" y1="200" x2="696" y2="200"
+          stroke="#a855f7" stroke-width="4" opacity="0.2"
+          style="filter:blur(3px)" class="al"/>
+    
+  <clipPath id="cc_spot"><rect width="720" height="222" rx="18"/></clipPath>
+  <rect clip-path="url(#cc_spot)" x="-251.99999999999997" y="0"
+        width="251.99999999999997" height="222"
+        fill="url(#sweep_spot)" class="sw"/>
+  </g>
+</svg>
