@@ -1,0 +1,14 @@
+
+    <svg width="400" height="150" viewBox="0 0 400 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <style>
+        .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-weight: 700; fill: #C9D1D9; font-size: 18px; }
+        .stat { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, monospace; fill: #58A6FF; font-size: 28px; font-weight: bold; }
+        .bg { fill: #0D1117; stroke: #30363D; stroke-width: 1; rx: 8px; }
+      </style>
+      
+      <rect width="100%" height="100%" class="bg" />
+      <text x="24" y="45" class="title">Status de DiegoAndradeD</text>
+      <text x="24" y="85" class="title" style="font-size: 14px; font-weight: 400; fill: #8B949E;">Contribuições no último ano:</text>
+      <text x="24" y="120" class="stat">669</text>
+    </svg>
+    
