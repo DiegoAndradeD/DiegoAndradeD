@@ -119,7 +119,7 @@
             font-family="'Syne',sans-serif" font-size="15" fill="#4ade80">⌥</text>
       <text x="190" y="296" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-weight="600"
-            font-size="18" fill="white">660</text>
+            font-size="18" fill="white">639</text>
       <text x="190" y="312" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-size="9"
             fill="#71717a" letter-spacing="1">COMMITS</text>
