@@ -81,5 +81,5 @@ Specializing in full-stack web applications with **Next.js** and **NestJS**. I h
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/diego-deir%C3%B3-067822248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" /></a>
+  <a href="www.linkedin.com/in/diego-deiró" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" /></a>
 </p>
