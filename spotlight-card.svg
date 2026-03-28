@@ -165,7 +165,7 @@
 
     <!-- repo name -->
     <text x="24" y="104" font-family="'Syne',sans-serif" font-weight="800"
-          font-size="32" fill="url(#repoName)" class="fu d3">ui-lib</text>
+          font-size="32" fill="url(#repoName)" class="fu d3">pocket-ui</text>
 
     <!-- description -->
     <text x="24" y="128" font-family="'JetBrains Mono',monospace"
