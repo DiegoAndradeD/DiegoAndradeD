@@ -92,23 +92,23 @@
             font-size="13" fill="#d4d4d8">TypeScript</text>
       <text x="348" y="106" text-anchor="end"
             font-family="'JetBrains Mono',monospace" font-weight="600"
-            font-size="13" fill="white">67.8%</text>
+            font-size="13" fill="white">64.7%</text>
       <!-- track -->
       <rect x="32" y="114" width="316" height="8" rx="4"
             fill="rgba(39,39,42,0.6)"/>
       <!-- glow blur layer -->
-      <rect x="32" y="114" width="214.2" height="8" rx="4"
+      <rect x="32" y="114" width="204.5" height="8" rx="4"
             fill="#3178c6" opacity="0.35" class="bf"
             style="filter:blur(4px);animation-delay:0.3s">
-        <animate attributeName="width" from="0" to="214.2"
+        <animate attributeName="width" from="0" to="204.5"
                  dur=".9s" begin="0.3s" fill="freeze"
                  calcMode="spline" keySplines=".22 1 .36 1"/>
       </rect>
       <!-- solid fill -->
-      <rect x="32" y="114" width="214.2" height="8" rx="4"
+      <rect x="32" y="114" width="204.5" height="8" rx="4"
             fill="#3178c6" opacity="0.9" class="bf"
             style="animation-delay:0.3s">
-        <animate attributeName="width" from="0" to="214.2"
+        <animate attributeName="width" from="0" to="204.5"
                  dur=".9s" begin="0.3s" fill="freeze"
                  calcMode="spline" keySplines=".22 1 .36 1"/>
       </rect>
@@ -118,23 +118,23 @@
             font-size="13" fill="#d4d4d8">Go</text>
       <text x="348" y="164" text-anchor="end"
             font-family="'JetBrains Mono',monospace" font-weight="600"
-            font-size="13" fill="white">13.7%</text>
+            font-size="13" fill="white">15.4%</text>
       <!-- track -->
       <rect x="32" y="172" width="316" height="8" rx="4"
             fill="rgba(39,39,42,0.6)"/>
       <!-- glow blur layer -->
-      <rect x="32" y="172" width="43.3" height="8" rx="4"
+      <rect x="32" y="172" width="48.7" height="8" rx="4"
             fill="#00ADD8" opacity="0.35" class="bf"
             style="filter:blur(4px);animation-delay:0.4s">
-        <animate attributeName="width" from="0" to="43.3"
+        <animate attributeName="width" from="0" to="48.7"
                  dur=".9s" begin="0.4s" fill="freeze"
                  calcMode="spline" keySplines=".22 1 .36 1"/>
       </rect>
       <!-- solid fill -->
-      <rect x="32" y="172" width="43.3" height="8" rx="4"
+      <rect x="32" y="172" width="48.7" height="8" rx="4"
             fill="#00ADD8" opacity="0.9" class="bf"
             style="animation-delay:0.4s">
-        <animate attributeName="width" from="0" to="43.3"
+        <animate attributeName="width" from="0" to="48.7"
                  dur=".9s" begin="0.4s" fill="freeze"
                  calcMode="spline" keySplines=".22 1 .36 1"/>
       </rect>
@@ -144,23 +144,23 @@
             font-size="13" fill="#d4d4d8">Python</text>
       <text x="348" y="222" text-anchor="end"
             font-family="'JetBrains Mono',monospace" font-weight="600"
-            font-size="13" fill="white">8.3%</text>
+            font-size="13" fill="white">9.3%</text>
       <!-- track -->
       <rect x="32" y="230" width="316" height="8" rx="4"
             fill="rgba(39,39,42,0.6)"/>
       <!-- glow blur layer -->
-      <rect x="32" y="230" width="26.2" height="8" rx="4"
+      <rect x="32" y="230" width="29.4" height="8" rx="4"
             fill="#3572A5" opacity="0.35" class="bf"
             style="filter:blur(4px);animation-delay:0.5s">
-        <animate attributeName="width" from="0" to="26.2"
+        <animate attributeName="width" from="0" to="29.4"
                  dur=".9s" begin="0.5s" fill="freeze"
                  calcMode="spline" keySplines=".22 1 .36 1"/>
       </rect>
       <!-- solid fill -->
-      <rect x="32" y="230" width="26.2" height="8" rx="4"
+      <rect x="32" y="230" width="29.4" height="8" rx="4"
             fill="#3572A5" opacity="0.9" class="bf"
             style="animation-delay:0.5s">
-        <animate attributeName="width" from="0" to="26.2"
+        <animate attributeName="width" from="0" to="29.4"
                  dur=".9s" begin="0.5s" fill="freeze"
                  calcMode="spline" keySplines=".22 1 .36 1"/>
       </rect>
@@ -170,23 +170,23 @@
             font-size="13" fill="#d4d4d8">Java</text>
       <text x="348" y="280" text-anchor="end"
             font-family="'JetBrains Mono',monospace" font-weight="600"
-            font-size="13" fill="white">5.3%</text>
+            font-size="13" fill="white">6%</text>
       <!-- track -->
       <rect x="32" y="288" width="316" height="8" rx="4"
             fill="rgba(39,39,42,0.6)"/>
       <!-- glow blur layer -->
-      <rect x="32" y="288" width="16.7" height="8" rx="4"
+      <rect x="32" y="288" width="19.0" height="8" rx="4"
             fill="#b07219" opacity="0.35" class="bf"
             style="filter:blur(4px);animation-delay:0.6000000000000001s">
-        <animate attributeName="width" from="0" to="16.7"
+        <animate attributeName="width" from="0" to="19.0"
                  dur=".9s" begin="0.6000000000000001s" fill="freeze"
                  calcMode="spline" keySplines=".22 1 .36 1"/>
       </rect>
       <!-- solid fill -->
-      <rect x="32" y="288" width="16.7" height="8" rx="4"
+      <rect x="32" y="288" width="19.0" height="8" rx="4"
             fill="#b07219" opacity="0.9" class="bf"
             style="animation-delay:0.6000000000000001s">
-        <animate attributeName="width" from="0" to="16.7"
+        <animate attributeName="width" from="0" to="19.0"
                  dur=".9s" begin="0.6000000000000001s" fill="freeze"
                  calcMode="spline" keySplines=".22 1 .36 1"/>
       </rect>
@@ -194,7 +194,7 @@
     <!-- footer -->
     <text x="190" y="352" text-anchor="middle"
           font-family="'JetBrains Mono',monospace" font-size="10"
-          fill="#52525b" class="fu d9">Based on 12 repositories</text>
+          fill="#52525b" class="fu d9">Based on 11 repositories</text>
     
   <clipPath id="cc_lang"><rect width="380" height="366" rx="18"/></clipPath>
   <rect clip-path="url(#cc_lang)" x="-133" y="0"
