@@ -3,8 +3,9 @@
 >
 > [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8b2e2e?style=for-the-badge&logo=codeforces&logoColor=c9a961)](https://diego-portfolio-cnm.pages.dev/)
 
+---
 
-Specializing in full-stack web applications with **Next.js** and **NestJS**. I have a strong foundation in TypeScript and state management, and I am currently expanding my backend architecture skills with **Go**.
+Full-stack engineer specializing in web applications with **Next.js** and **NestJS**, with solid command of TypeScript, state management, and backend architecture. Fluent in **Go** for systems and backend development, and comfortable across the full interface spectrum — web, **GUI**, **CLI**, and **TUI**. Experienced building browser extensions, desktop applications, and configuring independent servers on **Linux**.
 
 ---
 
@@ -44,15 +45,18 @@ Specializing in full-stack web applications with **Next.js** and **NestJS**. I h
 ![Git](https://img.shields.io/badge/Git-121212?style=flat-square&logo=git&logoColor=F05032)
 ![Jest](https://img.shields.io/badge/Jest-121212?style=flat-square&logo=jest&logoColor=C21325)
 ![Cypress](https://img.shields.io/badge/Cypress-121212?style=flat-square&logo=cypress&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-121212?style=flat-square&logo=linux&logoColor=FCC624)
 
 ---
 
 ### 🧩 Concepts & Methodologies
 
 * **API Architecture:** RESTful Design, Microservices
-* **Database Management:** ORM (Prisma, TypeORM, DrizzleORM)
+* **Database Management:** ORM (Prisma, TypeORM, DrizzleORM, GORM)
 * **Authentication:** JWT, Session-based security
 * **Testing:** Unit (Jest) & E2E (Cypress)
+* **Interface Types:** Web, GUI, CLI, TUI, Browser Extensions, Desktop Applications
+* **Infrastructure:** Linux server configuration & administration
 
 ---
 
