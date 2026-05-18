@@ -820,6 +820,8 @@
                     fill="rgba(39,39,42,0.4)" style="" class="cp d9"/>
     <rect x="752" y="88" width="11" height="11" rx="2"
                     fill="rgba(39,39,42,0.4)" style="" class="cp d9"/>
+    <rect x="752" y="102" width="11" height="11" rx="2"
+                    fill="rgba(39,39,42,0.4)" style="" class="cp d9"/>
 
     <!-- legend -->
     <text x="24" y="211"
