@@ -107,7 +107,7 @@
             font-family="'Syne',sans-serif" font-size="15" fill="#facc15">★</text>
       <text x="80" y="296" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-weight="600"
-            font-size="18" fill="white">0</text>
+            font-size="18" fill="white">1</text>
       <text x="80" y="312" text-anchor="middle"
             font-family="'JetBrains Mono',monospace" font-size="9"
             fill="#71717a" letter-spacing="1">TOTAL STARS</text>
