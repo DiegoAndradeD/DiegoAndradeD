@@ -165,11 +165,11 @@
 
     <!-- repo name -->
     <text x="24" y="104" font-family="'Syne',sans-serif" font-weight="800"
-          font-size="32" fill="url(#repoName)" class="fu d3">owls-post</text>
+          font-size="32" fill="url(#repoName)" class="fu d3">pocket-ui</text>
 
     <!-- description -->
     <text x="24" y="128" font-family="'JetBrains Mono',monospace"
-          font-size="12" fill="#a1a1aa" class="fu d4">A full-stack platform for reading, writing, and sharing stories. Built fro…</text>
+          font-size="12" fill="#a1a1aa" class="fu d4">A personal, zero-dependency, copy-and-paste React UI component library bui…</text>
 
     <!-- Stars pill -->
     <rect x="24" y="148" width="108" height="30" rx="10"
