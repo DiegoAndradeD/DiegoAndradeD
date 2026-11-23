@@ -1,4 +1,4 @@
-<h1 align="center">Diego<br><sub>Software Engineer &nbsp;·&nbsp; Full stack and systems</sub></h1>
+<h1 align="center">Diego Deiró<br><sub>Software Engineer &nbsp;·&nbsp; Full stack and systems</sub></h1>
 
 <p align="center">
   Full stack engineer covering the whole path of a product: web interfaces and APIs, systems software in Rust and Go, and the Linux infrastructure underneath them.
