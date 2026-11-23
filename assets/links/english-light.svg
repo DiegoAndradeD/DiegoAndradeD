@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="444" height="46" viewBox="0 0 444 46" role="img" aria-label="English, B2 upper intermediate, Cambridge certified">
+  <rect x=".5" y=".5" width="443" height="45" rx="8.5" fill="#f6f8fa" stroke="#d0d7de"/>
+  <rect x="14" y="8" width="30" height="30" rx="7" fill="#e6ebf1"/>
+  <text x="29" y="27.4" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#1f2328">EN</text>
+  <text x="56" y="20" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#1f2328">English</text>
+  <text x="56" y="35" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#656d76">B2 upper intermediate  ·  Cambridge certified</text>
+  <text x="359" y="19" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="8.5" letter-spacing="1" fill="#656d76">CEFR</text>
+  <rect x="359" y="25" width="9" height="5" rx="2" fill="#1f2328" fill-opacity=".85"/><rect x="371" y="25" width="9" height="5" rx="2" fill="#1f2328" fill-opacity=".85"/><rect x="383" y="25" width="9" height="5" rx="2" fill="#1f2328" fill-opacity=".85"/><rect x="395" y="25" width="9" height="5" rx="2" fill="#1f2328" fill-opacity=".85"/><rect x="407" y="25" width="9" height="5" rx="2" fill="#d0d7de" /><rect x="419" y="25" width="9" height="5" rx="2" fill="#d0d7de" />
+</svg>

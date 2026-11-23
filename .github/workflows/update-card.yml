@@ -33,6 +33,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-card.svg languages-card.svg contributions-card.svg spotlight-card.svg
+          git add contributions-card-light.svg contributions-card-dark.svg languages-card-light.svg languages-card-dark.svg
           git commit -m "chore: atualiza metricas do card [skip ci]" || echo "Nenhuma mudança para commitar"
           git push
