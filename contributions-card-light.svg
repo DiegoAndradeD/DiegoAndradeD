@@ -778,6 +778,8 @@
           width="10.85" height="10.85" rx="2.5"
           fill="#c6dbee" class="fu d9"/><rect x="748.15" y="139.40"
           width="10.85" height="10.85" rx="2.5"
+          fill="#e4e8ec" class="fu d9"/><rect x="748.15" y="153.25"
+          width="10.85" height="10.85" rx="2.5"
           fill="#e4e8ec" class="fu d9"/>
     <text x="28" y="205" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#8c959f"
           class="fu d9">Public and private contributions linked to this account</text>
